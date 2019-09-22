@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-size: 24px;
+    color: #41B883;
+}
+
+p{
+    font-size: 18px;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
